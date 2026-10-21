@@ -11,8 +11,3 @@ I am a student at Upgrad school of technology, currently learning Git and Github
      ## projects 
      - LMS : one line about it
      - USM : one line about it 
-
-     ## Social Links
-     - GitHub: https://github.com/
-     - Linkedin : www.linkend.com
-     
